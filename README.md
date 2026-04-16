@@ -12,6 +12,7 @@ Python
 Pandas
 Scikit-learn
 Jupyter Notebook
+
  Dataset:
 File: spam.csv
 Contains labeled SMS messages (spam/ham)
@@ -22,9 +23,11 @@ Feature Extraction (TF-IDF)
 Model Training
 Model Evaluation
 Prediction
+
  Model Performance:
 Accuracy: (write your accuracy here)
 Confusion Matrix: (add screenshot if possible)
+
  How to Run:
 Download or clone the repo
 Install required libraries:
